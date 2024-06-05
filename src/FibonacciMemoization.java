@@ -47,6 +47,6 @@ public class FibonacciMemoization {
         FibonacciMemoization fibMemo = new FibonacciMemoization();
         int n = 50; // You can change this to any number you want to compute
         long fib = fibMemo.fibonacci(n);
-        System.out.println("/nFibonacci number at position " + n + " is: " + fib);
+        System.out.println("\nFibonacci number at position " + n + " is: " + fib);
     }
 }
