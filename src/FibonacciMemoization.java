@@ -1,9 +1,9 @@
 /**
  * FibonacciMemoization
  * 
- * Esta classe implementa o cálculo do n-ésimo número de Fibonacci usando memoização.
+* This class returns the n-th Fibonacci number using memoisation.
  * 
- * por Felipe Campelo
+ * Felipe Campelo
  * https://www.felipecampelo.com.br
 */
 

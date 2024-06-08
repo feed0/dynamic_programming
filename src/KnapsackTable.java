@@ -1,13 +1,14 @@
 /**
  * FibonacciMemoization
  * 
- * Esta classe implementa o cálculo do n-ésimo número de Fibonacci usando memoização.
+ * This class calculates the highest value that can be obtained by filling a knapsack of capacity W with 
+ * items of different weights and values using a dynamic programming table.
  * 
- * por Felipe Campelo
+ * Felipe Campelo
  * https://www.felipecampelo.com.br
 */
 
-public class KnapsackDP {
+public class KnapsackTable {
 
     // Dynamic Programming approach to solve 0/1 Knapsack problem
     static int knapSack(int capacity, int weights[], int values[]) {
