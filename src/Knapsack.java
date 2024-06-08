@@ -8,7 +8,7 @@
  * https://www.felipecampelo.com.br
 */
 
-public class KnapsackTable {
+public class Knapsack {
 
     // Dynamic Programming approach to solve 0/1 Knapsack problem
     static int knapSack(int capacity, int weights[], int values[]) {
